@@ -3,7 +3,7 @@
 A fictional artist booking platform built with Next.js 13+, Tailwind CSS, and ShadCN UI.
 
 ## Live Demo
-🔗 https://your-project.vercel.app
+🔗 https://artistly-three-eta.vercel.app
 
 ## Features
 - Artist listing and filtering
