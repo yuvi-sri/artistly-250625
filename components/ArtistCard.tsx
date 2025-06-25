@@ -5,7 +5,7 @@ import { QuoteModal } from "@/components/QuoteModal";
 
 interface Artist {
   name: string;
-  category: string;
+  category: string[];
   location: string;
   priceRange: string;
 }
